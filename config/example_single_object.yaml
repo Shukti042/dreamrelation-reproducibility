@@ -1,0 +1,10 @@
+lora_weights: "lora-weights/lora-trained-xl-hugging"
+class_names:
+  - "cat"
+prompt: "A cat is hugging"
+images_path:
+  - "RelationBench/benchmark/plushie_cat/0.jpg"
+boxes:
+  - - [0.0, 0, 1, 1]
+phrases:
+  - ["plushie_cat"]

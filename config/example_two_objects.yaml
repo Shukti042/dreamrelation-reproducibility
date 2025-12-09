@@ -1,0 +1,13 @@
+lora_weights: "lora-weights/lora-trained-xl-hugging"
+class_names:
+  - "cat"
+  - "plushie bear"
+prompt: "A cat is hugging with a plushie bear."
+images_path:
+  - "assets/image_prompts/cat_2.jpg"
+  - "assets/image_prompts/plushie_bear.jpg"
+boxes:
+  - - [0.0, 0, 1, 1]
+    - [0, 0, 1, 1]
+phrases:
+  - ["cat", "plushie bear"]

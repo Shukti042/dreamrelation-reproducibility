@@ -1,0 +1,602 @@
+[
+  {
+    "sub1": "benchmark/toy_samurai",
+    "prompt": "A toysamurai is playing guitar on a park bench.",
+    "phrase": "toy_samurai",
+    "model": "lora-trained-xl-playing_guitar"
+  },
+  {
+    "sub1": "benchmark/plushie_lobster",
+    "prompt": "A plushie lobster is playing guitar on a park bench.",
+    "phrase": "plushie_lobster",
+    "model": "lora-trained-xl-playing_guitar" 
+  },
+  {
+    "sub1": "benchmark/poop_emoji",
+    "prompt": "A poop emoji is playing guitar on a park bench.",
+    "phrase": "poop_emoji",
+    "model": "lora-trained-xl-playing_guitar"
+  },
+  {
+    "sub1": "benchmark/dog_1",
+    "prompt": "A dog is playing guitar on a park bench.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-playing_guitar"
+  },
+  {
+    "sub1": "benchmark/dog_9",
+    "prompt": "A dog is playing piano in a grand hall.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-playing_piano"
+  },
+  {
+    "sub1": "benchmark/plushie_cat",
+    "prompt": "A plushie cat is playing piano in a grand hall.",
+    "phrase": "plushie_cat",
+    "model": "lora-trained-xl-playing_piano"
+  },
+  {
+    "sub1": "benchmark/toy_gnome",
+    "prompt": "A toy gnome is playing piano in a grand hall.",
+    "phrase": "toy_gnome",
+    "model": "lora-trained-xl-playing_piano"
+  },
+  {
+    "sub1": "benchmark/plushie_teddybear",
+    "prompt": "A plushie teddybear is playing piano in a grand hall.",
+    "phrase": "plushie_teddybear",
+    "model": "lora-trained-xl-playing_piano"
+  },
+  {
+    "sub1": "benchmark/plushie_cow",
+    "prompt": "A plushie cow is eating dinner in a bustling restaurant.",
+    "phrase": "plushie_cow",
+    "model": "lora-trained-xl-eating"
+  },
+  {
+    "sub1": "benchmark/plushie_wolf",
+    "prompt": "A plushie wolf is eating dinner in a bustling restaurant.",
+    "phrase": "plushie_wolf",
+    "model": "lora-trained-xl-eating"
+  },
+  {
+    "sub1": "benchmark/toy_robot",
+    "prompt": "A toy robot is eating dinner in a bustling restaurant.",
+    "phrase": "toy_robot",
+    "model": "lora-trained-xl-eating"
+  },
+  {
+    "sub1": "benchmark/cat_0",
+    "prompt": "A cat is eating dinner in a bustling restaurant.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-eating"
+  },
+  {
+    "sub1": "benchmark/plushie_sloth",
+    "prompt": "A plushie sloth is dancing in the moonlight.",
+    "phrase": "plushie_sloth",
+    "model": "lora-trained-xl-dancing"
+  },
+  {
+    "sub1": "benchmark/plushie_panda",
+    "prompt": "A plushie panda is dancing in the moonlight.",
+    "phrase": "plushie_panda",
+    "model": "lora-trained-xl-dancing"
+  },
+  {
+    "sub1": "benchmark/dog_4",
+    "prompt": "A dog is dancing in the moonlight.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-dancing"
+  },
+  {
+    "sub1": "benchmark/toy_monster",
+    "prompt": "A toy monster is dancing in the moonlight.",
+    "phrase": "toy_monster",
+    "model": "lora-trained-xl-dancing"
+  },
+  {
+    "sub1": "benchmark/dog_2",
+    "prompt": "A dog is lifting weights in a modern gym.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-lifting"
+  },
+  {
+    "sub1": "benchmark/plushie_unicorn",
+    "prompt": "A plushie unicorn is lifting weights in a modern gym.",
+    "phrase": "plushie_unicorn",
+    "model": "lora-trained-xl-lifting"
+  },
+  {
+    "sub1": "benchmark/plushie_penguin",
+    "prompt": "A plushie penguin is lifting weights in a modern gym.",
+    "phrase": "plushie_penguin",
+    "model": "lora-trained-xl-lifting"
+  },
+  {
+    "sub1": "benchmark/person_2",
+    "prompt": "A person is lifting weights in a modern gym.",
+    "phrase": "person",
+    "model": "lora-trained-xl-lifting"
+  },
+  {
+    "sub1": "benchmark/cat_1",
+    "prompt": "A cat is reading a book by the fireplace.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-reading"
+  },
+  {
+    "sub1": "benchmark/cat_5",
+    "prompt": "A cat is reading a book by the fireplace.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-reading"
+  },
+  {
+    "sub1": "benchmark/plushie_bunny",
+    "prompt": "A plushie bunny is reading a book by the fireplace.",
+    "phrase": "plushie_bunny",
+    "model": "lora-trained-xl-reading"
+  },
+  {
+    "sub1": "benchmark/plushie_salamandrid",
+    "prompt": "A plushie salamandrid is reading a book by the fireplace.",
+    "phrase": "plushie_salamandrid",
+    "model": "lora-trained-xl-reading"
+  },
+  {
+    "sub1": "benchmark/toy_bear",
+    "prompt": "A toy bear is skiing down a steep slope in the Alps, with snowflakes falling gently.",
+    "phrase": "toy_bear",
+    "model": "lora-trained-xl-skiing"
+  },
+  {
+    "sub1": "benchmark/dog_10",
+    "prompt": "A dog is skiing down a steep slope in the Alps, with snowflakes falling gently.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-skiing"
+  },
+  {
+    "sub1": "benchmark/plushie_octopus",
+    "prompt": "A plushie octopus is skiing down a steep slope in the Alps, with snowflakes falling gently.",
+    "phrase": "plushie_octopus",
+    "model": "lora-trained-xl-skiing"
+  },
+  {
+    "sub1": "benchmark/plushie_panda",
+    "prompt": "A plushie panda is skiing down a steep slope in the Alps, with snowflakes falling gently.",
+    "phrase": "plushie_panda",
+    "model": "lora-trained-xl-skiing"
+  },
+  {
+    "sub1": "benchmark/person_3",
+    "prompt": "A person is sleeping peacefully in a hammock under the shade of a palm tree.",
+    "phrase": "person",
+    "model": "lora-trained-xl-sleeping"
+  },
+  {
+    "sub1": "benchmark/dog_8",
+    "prompt": "A dog is sleeping peacefully in a hammock under the shade of a palm tree.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-sleeping"
+  },
+  {
+    "sub1": "benchmark/plushie_wolf",
+    "prompt": "A plushie wolf is sleeping peacefully in a hammock under the shade of a palm tree.",
+    "phrase": "plushie_wolf",
+    "model": "lora-trained-xl-sleeping"
+  },
+  {
+    "sub1": "benchmark/plushie_tortoise",
+    "prompt": "A plushie tortoise is sleeping peacefully in a hammock under the shade of a palm tree.",
+    "phrase": "plushie_tortoise",
+    "model": "lora-trained-xl-sleeping"
+  },
+  {
+    "sub1": "benchmark/plushie_bear",
+    "prompt": "A plushie bear is cooking lunch in a kitchen.",
+    "phrase": "plushie_bear",
+    "model": "lora-trained-xl-cooking"
+  },
+  {
+    "sub1": "benchmark/plushie_penguin",
+    "prompt": "A plushie penguin is cooking lunch in a kitchen.",
+    "phrase": "plushie_penguin",
+    "model": "lora-trained-xl-cooking"
+  },
+  {
+    "sub1": "benchmark/toy_man",
+    "prompt": "A toy man is cooking lunch in a kitchen.",
+    "phrase": "toy_man",
+    "model": "lora-trained-xl-cooking"
+  },
+  {
+    "sub1": "benchmark/dog_6",
+    "prompt": "A dog is cooking lunch in a kitchen.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-cooking"
+  },
+  {
+    "sub1": "benchmark/plushie_cat",
+    "prompt": "A plushie cat is singing on stage during a vibrant music festival.",
+    "phrase": "plushie_cat",
+    "model": "lora-trained-xl-singing"
+  },
+  {
+    "sub1": "benchmark/dog_0",
+    "prompt": "A dog is singing on stage during a vibrant music festival.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-singing"
+  },
+  {
+    "sub1": "benchmark/toy_samurai",
+    "prompt": "A toy samurai is singing on stage during a vibrant music festival.",
+    "phrase": "toy_samurai",
+    "model": "lora-trained-xl-singing"
+  },
+  {
+    "sub1": "benchmark/cat_8",
+    "prompt": "A cat is singing on stage during a vibrant music festival.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-singing"
+  },
+  {
+    "sub1": "benchmark/cat_0",
+    "prompt": "A cat is riding a bike along the scenic countryside road.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/plushie_panda",
+    "prompt": "A plushie panda is riding a bike along the scenic countryside road.",
+    "phrase": "plushie_panda",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/toy_unicorn",
+    "prompt": "A toy unicorn is riding a bike along the scenic countryside road.",
+    "phrase": "toy_unicorn",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/plushie_lobster",
+    "prompt": "A plushie lobster is riding a bike along the scenic countryside road.",
+    "phrase": "plushie_lobster",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/dog_9",
+    "prompt": "A dog is riding a horse on the grassland.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/plushie_tortoise",
+    "prompt": "A plushie tortoise is riding a horse on the grassland.",
+    "phrase": "plushie_tortoise",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/cat_5",
+    "prompt": "A cat is riding a horse on the grassland.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/plushie_bear",
+    "prompt": "A plushie bear is riding a horse on the grassland.",
+    "phrase": "plushie_bear",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/dog_5",
+    "prompt": "A dog is riding a motorbike on the street.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/plushie_penguin",
+    "prompt": "A plushie penguin is riding a motorbike on the street.",
+    "phrase": "plushie_penguin",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/toy_gyarados",
+    "prompt": "A toy gyarados is riding a motorbike on the street.",
+    "phrase": "toy_gyarados",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/plushie_octopus",
+    "prompt": "A plushie octopus is riding a motorbike on the street.",
+    "phrase": "plushie_octopus",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/plushie_salamandrid",
+    "prompt": "A plushie salamandrid is playing soccer on football playground.",
+    "phrase": "plushie_salamandrid",
+    "model": "lora-trained-xl-playing_soccer"
+  },
+  {
+    "sub1": "benchmark/dog_1",
+    "prompt": "A dog is playing soccer on football playground.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-playing_soccer"
+  },
+  {
+    "sub1": "benchmark/dog_10",
+    "prompt": "A dog is playing soccer on football playground.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-playing_soccer"
+  },
+  {
+    "sub1": "benchmark/cat_4",
+    "prompt": "A cat is playing soccer on football playground.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-playing_soccer"
+  },
+  {
+    "sub1": "benchmark/cat_8",
+    "prompt": "A cat is playing chess with a dog under a tree.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-playing_chess"
+  },
+  {
+    "sub1": "benchmark/plushie_panda",
+    "prompt": "A plushie panda is playing chess with a plushieteddybear under a tree.",
+    "phrase": "plushie_panda",
+    "model": "lora-trained-xl-playing_chess"
+  },
+  {
+    "sub1": "benchmark/toy_man",
+    "prompt": "A toy man is playing chess with a plushielobster under a tree.",
+    "phrase": "toy_man",
+    "model": "lora-trained-xl-playing_chess"
+  },
+  {
+    "sub1": "benchmark/plushie_bear",
+    "prompt": "A plushie bear is playing chess with a plushieoctopus under a tree.",
+    "phrase": "plushie_bear",
+    "model": "lora-trained-xl-playing_chess"
+  },
+  {
+    "sub1": "benchmark/dog_7",
+    "prompt": "A dog is partner dancing with a person in a vintage ballroom.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-partner_dancing"
+  },
+  {
+    "sub1": "benchmark/plushie_unicorn",
+    "prompt": "A plushie unicorn is partner dancing with a plushiesloth in a vintage ballroom.",
+    "phrase": "plushie_unicorn",
+    "model": "lora-trained-xl-partner_dancing"
+  },
+  {
+    "sub1": "benchmark/toy_bear",
+    "prompt": "A toy bear is partner dancing with a toysamurai in a vintage ballroom.",
+    "phrase": "toy_bear",
+    "model": "lora-trained-xl-partner_dancing"
+  },
+  {
+    "sub1": "benchmark/cat_0",
+    "prompt": "A cat is partner dancing with a plushiecat in a vintage ballroom.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-partner_dancing"
+  },
+  {
+    "sub1": "benchmark/plushie_tortoise",
+    "prompt": "A plushie tortoise is carrying a plushiewolf on the diving room.",
+    "phrase": "plushie_tortoise",
+    "model": "lora-trained-xl-carrying"
+  },
+  {
+    "sub1": "benchmark/plushie_lobster",
+    "prompt": "A plushie lobster is carrying a dog on the diving room.",
+    "phrase": "plushie_lobster",
+    "model": "lora-trained-xl-carrying"
+  },
+  {
+    "sub1": "benchmark/person_1",
+    "prompt": "A person is carrying a plushiebunny on the diving room.",
+    "phrase": "person",
+    "model": "lora-trained-xl-carrying"
+  },
+  {
+    "sub1": "benchmark/toy_robot",
+    "prompt": "A toy robot is carrying a plushiepenguin on the diving room.",
+    "phrase": "toy_robot",
+    "model": "lora-trained-xl-carrying"
+  },
+  {
+    "sub1": "benchmark/plushie_cow",
+    "prompt": "A plushie cow is fencing with a plushiesalamandrid in an elegant arena.",
+    "phrase": "plushie_cow",
+    "model": "lora-trained-xl-fencing"
+  },
+  {
+    "sub1": "benchmark/dog_4",
+    "prompt": "A dog is fencing with a toymonster in an elegant arena.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-fencing"
+  },
+  {
+    "sub1": "benchmark/plushie_panda",
+    "prompt": "A plushie panda is fencing with a cat in an elegant arena.",
+    "phrase": "plushie_panda",
+    "model": "lora-trained-xl-fencing"
+  },
+  {
+    "sub1": "benchmark/toy_duck",
+    "prompt": "A toy duck is fencing with a plushieoctopus in an elegant arena.",
+    "phrase": "toy_duck",
+    "model": "lora-trained-xl-fencing"
+  },
+  {
+    "sub1": "benchmark/cat_5",
+    "prompt": "A cat shakes hands with a dog in the forest.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-shaking_hands"
+  },
+  {
+    "sub1": "benchmark/plushie_sloth",
+    "prompt": "A plushie sloth shakes hands with a toygnome in the forest.",
+    "phrase": "plushie_sloth",
+    "model": "lora-trained-xl-shaking_hands"
+  },
+  {
+    "sub1": "benchmark/plushie_unicorn",
+    "prompt": "A plushie unicorn shakes hands with a toygyarados in the forest.",
+    "phrase": "plushie_unicorn",
+    "model": "lora-trained-xl-shaking_hands"
+  },
+  {
+    "sub1": "benchmark/dog_0",
+    "prompt": "A dog shakes hands with a person in the forest.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-shaking_hands"
+  },
+  {
+    "sub1": "benchmark/plushie_wolf",
+    "prompt": "A plushie wolf is kissing a plushielobster.",
+    "phrase": "plushie_wolf",
+    "model": "lora-trained-xl-kissing"
+  },
+  {
+    "sub1": "benchmark/toy_monster",
+    "prompt": "A toy monster is kissing a plushiebear.",
+    "phrase": "toy_monster",
+    "model": "lora-trained-xl-kissing"
+  },
+  {
+    "sub1": "benchmark/dog_9",
+    "prompt": "A dog is kissing a cat.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-kissing"
+  },
+  {
+    "sub1": "benchmark/plushie_octopus",
+    "prompt": "A plushie octopus is kissing a plushiepanda.",
+    "phrase": "plushie_octopus",
+    "model": "lora-trained-xl-kissing"
+  },
+  {
+    "sub1": "benchmark/dog_10",
+    "prompt": "A dog is playing basketball with a plushiebunny on a street court.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-playing_basketball"
+  },
+  {
+    "sub1": "benchmark/cat_4",
+    "prompt": "A cat is playing basketball with a plushietortoise on a street court.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-playing_basketball"
+  },
+  {
+    "sub1": "benchmark/plushie_penguin",
+    "prompt": "A plushie penguin is playing basketball with a toyduck on a street court.",
+    "phrase": "plushie_penguin",
+    "model": "lora-trained-xl-playing_basketball"
+  },
+  {
+    "sub1": "benchmark/toy_bear",
+    "prompt": "A toy bear is playing basketball with a plushiesloth on a street court.",
+    "phrase": "toy_bear",
+    "model": "lora-trained-xl-playing_basketball"
+  },
+  {
+    "sub1": "benchmark/plushie_cow",
+    "prompt": "A plushie cow is wrestling with a toyunicorn in a championship.",
+    "phrase": "plushie_cow",
+    "model": "lora-trained-xl-wrestling"
+  },
+  {
+    "sub1": "benchmark/dog_6",
+    "prompt": "A dog is wrestling with a dog in a championship.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-wrestling"
+  },
+  {
+    "sub1": "benchmark/plushie_penguin",
+    "prompt": "A plushie penguin is wrestling with a plushieteddybear in a championship.",
+    "phrase": "plushie_penguin",
+    "model": "lora-trained-xl-wrestling"
+  },
+  {
+    "sub1": "benchmark/cat_8",
+    "prompt": "A cat is wrestling with a plushiesalamandrid in a championship.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-wrestling"
+  },
+  {
+    "sub1": "benchmark/plushie_cat",
+    "prompt": "A plushie cat is hugging a cat in front of the mountain.",
+    "phrase": "plushie_cat",
+    "model": "lora-trained-xl-hugging"
+  },
+  {
+    "sub1": "benchmark/dog_8",
+    "prompt": "A dog is hugging a cat in front of the mountain.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-hugging"
+  },
+  {
+    "sub1": "benchmark/plushie_tortoise",
+    "prompt": "A plushie tortoise is hugging a plushieoctopus in front of the mountain.",
+    "phrase": "plushie_tortoise",
+    "model": "lora-trained-xl-hugging"
+  },
+  {
+    "sub1": "benchmark/toy_gnome",
+    "prompt": "A toy gnome is hugging a plushiebunny in front of the mountain.",
+    "phrase": "toy_gnome",
+    "model": "lora-trained-xl-hugging"
+  },
+  {
+    "sub1": "benchmark/cat_7",
+    "prompt": "A cat is fighting with a plushiewolf in a garden.",
+    "phrase": "cat",
+    "model": "lora-trained-xl-fighting"
+  },
+  {
+    "sub1": "benchmark/plushie_lobster",
+    "prompt": "A plushie lobster is fighting with a toyrobot in a garden.",
+    "phrase": "plushie_lobster",
+    "model": "lora-trained-xl-fighting"
+  },
+  {
+    "sub1": "benchmark/plushie_panda",
+    "prompt": "A plushie panda is fighting with a dog in a garden.",
+    "phrase": "plushie_panda",
+    "model": "lora-trained-xl-fighting"
+  },
+  {
+    "sub1": "benchmark/dog_2",
+    "prompt": "A dog is fighting with a plushieunicorn in a garden.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-fighting"
+  },
+  {
+    "sub1": "benchmark/toy_duck",
+    "prompt": "A toy duck is sitting back to back with a plushiecow on a hilltop.",
+    "phrase": "toy_duck",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/plushie_teddybear",
+    "prompt": "A plushie teddybear is sitting back to back with a toymonster on a hilltop.",
+    "phrase": "plushie_teddybear",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/dog_5",
+    "prompt": "A dog is sitting back to back with a cat on a hilltop.",
+    "phrase": "dog",
+    "model": "lora-trained-xl-riding"
+  },
+  {
+    "sub1": "benchmark/plushie_bear",
+    "prompt": "A plushie bear is sitting back to back with a plushiesalamandrid on a hilltop.",
+    "phrase": "plushie_bear",
+    "model": "lora-trained-xl-riding"
+  }
+]

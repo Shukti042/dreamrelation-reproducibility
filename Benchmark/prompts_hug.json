@@ -1,0 +1,22 @@
+[
+  {
+    "sub1": "benchmark/plushie_cat",
+    "prompt": "A plushie cat is hugging a cat in front of the mountain.",
+    "phrase": "plushie_cat"
+  },
+  {
+    "sub1": "benchmark/dog_8",
+    "prompt": "A dog is hugging a cat in front of the mountain.",
+    "phrase": "dog"
+  },
+  {
+    "sub1": "benchmark/plushie_tortoise",
+    "prompt": "A plushie tortoise is hugging a plushieoctopus in front of the mountain.",
+    "phrase": "plushie_tortoise"
+  },
+  {
+    "sub1": "benchmark/toy_gnome",
+    "prompt": "A toy gnome is hugging a plushiebunny in front of the mountain.",
+    "phrase": "toy_gnome"
+  }
+]

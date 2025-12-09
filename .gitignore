@@ -1,0 +1,12 @@
+/.idea/
+
+# outputs
+logs
+wandb
+
+# compiled files
+__pycache__/
+
+lora-weights
+checkpoints
+RelationBench

@@ -1,0 +1,22 @@
+[
+  {
+    "sub1": "benchmark/cat_5",
+    "prompt": "A cat shakes hands with a dog in the forest.",
+    "phrase": "cat"
+  },
+  {
+    "sub1": "benchmark/plushie_sloth",
+    "prompt": "A plushie sloth shakes hands with a toygnome in the forest.",
+    "phrase": "plushie_sloth"
+  },
+  {
+    "sub1": "benchmark/plushie_unicorn",
+    "prompt": "A plushie unicorn shakes hands with a toygyarados in the forest.",
+    "phrase": "plushie_unicorn"
+  },
+  {
+    "sub1": "benchmark/dog_0",
+    "prompt": "A dog shakes hands with a person in the forest.",
+    "phrase": "dog"
+  }
+]
